@@ -1,0 +1,7 @@
+{
+    "host" : "localhost",
+    "user" : "root",
+    "password" : "tlaqhkek1!",
+    "database" : "project3_react",
+    "connectionLimit" : 100
+}
