@@ -1,6 +1,6 @@
 const buylistDAO = require("../model/getAddressDAO");
 
-const wherisDB = require("../model/getDB_DAO.js");
+const whereisDB = require("../model/getDB_DAO.js");
 module.exports  = {
     needs: () => upload,
 
